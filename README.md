@@ -9,8 +9,8 @@ http://shashikantjagtap.net/migrating-from-boot2docker-to-docker-toolbox/
 
 # Docker Compose
 
-             $ git clone https://github.com/Shashikant86/cucumber-compose.git
-             $ cd cucumber-compose
+             $ git clone https://github.com/Shashikant86/docker-cucumber-crossbrowser.git
+             $ cd docker-cucumber-crossbrowser
 
 Now build the project using docker compose
 
